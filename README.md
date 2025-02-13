@@ -29,7 +29,7 @@ Follow these steps to run the Poker Game successfully.
 
 ### 📥 1️⃣ Download the Required Files
 1. **Download `dist.zip`** (which contains `Assignment1.jar` and the `PokerGameEmbd/` folder):  
-   ➡ **[Click here to download `dist.zip`](https://github.com/JuchangKim/PokerApp/Assignment1/dist.zip)**  
+   ➡ **[Click here to download `dist.zip`]([https://github.com/JuchangKim/PokerApp/Assignment1/dist.zip](https://github.com/JuchangKim/PokerApp/blob/main/Assignment1/dist.zip))**  
 
 2. **Unzip** the file:
    - `Assignment1.jar` (the executable)
