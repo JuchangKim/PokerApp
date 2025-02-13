@@ -30,14 +30,14 @@ Follow these steps to run the Poker Game successfully.
 ### 📥 1️⃣ Download the Required Files
 1. **Go to the GitHub Repository**:  
    📌 [Poker Game Repository](https://github.com/Billie501/COMP603-Assignment1-)
-2. **Download the entire `dist/` folder**, which includes:
+2. **Download the entire `dist.zip file` in Assignment1 folder and extract**, the zip file includes:
    - `Assignment1.jar` (the executable program)
    - `PokerGameEmbd/` (the embedded database)
 
 ### ▶️ 2️⃣ Run the Game
 #### **Windows Users**
 1. Open **Command Prompt (cmd)** or **PowerShell**.
-2. Navigate to the `dist` folder:
+2. Navigate to the `dist` unzipped folder:
    ```sh
    cd path\to\dist
 3. Run the program with DerbyDB:
@@ -46,7 +46,7 @@ Follow these steps to run the Poker Game successfully.
 
 #### **Mac/Linux Users**
 1. Open Terminal.
-2. Navigate to the dist folder:
+2. Navigate to the dist unzipped folder:
    ```sh
    cd /path/to/dist
 3. Run the program:
