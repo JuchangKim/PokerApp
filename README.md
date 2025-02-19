@@ -28,11 +28,11 @@ The project is structured to enhance maintainability and efficiency.
 Follow these steps to run the Poker Game successfully.
 
 ### 📥 1️⃣ Download the Required Files
-1. **Download `dist.zip`** (which contains `Assignment1.jar` and the `PokerGameEmbd/` folder):  
+1. **Download `dist.zip`** (which contains `PokerGame.jar` and the `PokerGameEmbd/` folder):  
    ➡ **[Click here to download `dist.zip`](https://github.com/JuchangKim/PokerApp/raw/main/Assignment1/dist.zip)**  
 
-2. **Unzip** the file:
-   - `Assignment1.jar` (the executable)
+2. **Unzip** the dist.zip:
+   - `PokerGame.jar` (the executable)
 
 ### ▶️ 2️⃣ Run the Game
 #### **Windows Users**
@@ -42,7 +42,7 @@ Follow these steps to run the Poker Game successfully.
    cd path\to\dist
 3. Run the program with DerbyDB:
    ```sh
-   java -jar Assignment1.jar
+   java -jar PokerGame.jar
 
 #### **Mac/Linux Users**
 1. Open Terminal.
@@ -51,7 +51,7 @@ Follow these steps to run the Poker Game successfully.
    cd /path/to/dist
 3. Run the program:
    ```sh
-   java -jar Assignment1.jar
+   java -jar PokerGame.jar
 
 ## Important Notes
 
