@@ -33,7 +33,6 @@ Follow these steps to run the Poker Game successfully.
 
 2. **Unzip** the file:
    - `Assignment1.jar` (the executable)
-   - `PokerGameEmbd/` (the embedded database folder)
 
 ### ▶️ 2️⃣ Run the Game
 #### **Windows Users**
